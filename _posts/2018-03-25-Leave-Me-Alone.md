@@ -1,13 +1,14 @@
 ---
-layout:post
-title:'my first blog article'
-subtitle:'赠言'
-date:'2018-03-25'
-author:'Jaffar'
+layout:	post
+title:	"my first blog article"
+subtitle:	"赠言"
+date:	"2018-03-25"
+author:	"Jaffar"
 header-img:'img/bg-sword.jpg'
 tags:'motion'
 ---
 
+# Leave me alone
 
 
 ##### 天降降大任于斯人也
