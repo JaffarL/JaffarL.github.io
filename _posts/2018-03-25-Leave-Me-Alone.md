@@ -1,4 +1,17 @@
+---
+layout:post
+title:'my first blog article'
+subtitle:'赠言'
+date:'2018-03-25'
+author:'Jaffar'
+tags:
+	- Heart
+---
+
+
+
 ##### 天降降大任于斯人也
+
 ##### 必先苦其心志，劳其筋骨
 ##### 饿其体肤，空乏其身
 ### 行拂乱其所为
