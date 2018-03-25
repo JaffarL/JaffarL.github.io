@@ -68,7 +68,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "当庸庸碌碌和浑浑噩噩成为反义"
-sidebar-avatar: /img/childOfLight_avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/childOfLight_avatar.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
